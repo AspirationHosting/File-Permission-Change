@@ -7,7 +7,7 @@ Please follow the steps below to correct the file permissions in your hosting ac
 The steps below can be easily done with the <strong>cPanel File Manager</strong>.
 
 
-1. Download this .zip file and upload it to your <strong>public_html</strong> directory (<strong><em>or</em></strong> any directory your application installation is located in).
+1. Download <a href="https://github.com/AspirationHosting/File-Permission-Change/archive/master.zip">this .zip file</a> and upload it to your <strong>public_html</strong> directory (<strong><em>or</em></strong> any directory your application installation is located in).
 
 2. Extract the .zip and you will see the <strong>filepermission.php</strong> file.
 
