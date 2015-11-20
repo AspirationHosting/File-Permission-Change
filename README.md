@@ -1,6 +1,6 @@
 # File-Permission-Change
 
-Many applications, including Magento 1.x and 2.0 does not use the correct and safe file permissions for our servers out of the box. 
+Many applications, including <strong>Magento 1.x</strong> and <strong>Magento 2.0</strong> does not use the correct and safe file permissions for our servers out of the box. 
 
 Please follow the steps below to correct the file permissions in your hosting account. 
 
