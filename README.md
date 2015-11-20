@@ -1,32 +1,16 @@
 # File-Permission-Change
 
-Magento installation out of the box does not use the correct and safe file permissions for our servers. 
+Many applications, including Magento 1.x and 2.0 does not use the correct and safe file permissions for our servers out of the box. 
 
-Please follow the steps below according to your approriate Magento version.
+Please follow the steps below to correct the file permissions in your hosting account. 
 
-
-## Magento 1.x
-
-1. Download this file and upload it to your <strong>public_html</strong> directory (<strong><em>or</em></strong> any directory your Magento installation is located in).
-
-2. Run the file in your web browser by going to: <strong>yourdomain.com/filepermission-magento1.php</strong>
-
-3. The page will run continously and once done, you will see the message "<strong>File Permissions All Set for Magento 1.x!</strong>".
+The steps below can be easily done with the <strong>cPanel File Manager</strong>.
 
 
-## Magento 2.0
+1. Download this .zip file and upload it to your <strong>public_html</strong> directory (<strong><em>or</em></strong> any directory your application installation is located in).
 
-1. Download this file and upload it to your <strong>public_html</strong> directory (<strong><em>or</em></strong> any directory your Magento 2.0 installation is located in).
+2. Extract the .zip and you will see the <strong>filepermission.php</strong> file.
 
-2. Run the file in your web browser by going to: <strong>yourdomain.com/filepermission-magento2.php</strong>
+3. Run the file in your web browser by going to: <strong>yourdomain.com/filepermission.php</strong>
 
-3. The page will run continously and once done, you will see the message "<strong>File Permissions All Set for Magento 2.0!</strong>".
-
-
-## Other Applications
-
-1. Download this file and upload it to your <strong>public_html</strong> directory (<strong><em>or</em></strong> any directory your application installation is located in).
-
-2. Run the file in your web browser by going to: <strong>yourdomain.com/filepermission.php</strong>
-
-3. The page will run continously and once done, you will see the message "<strong>File Permissions All Set!</strong>".
+4. The page will load continously and once done, you will see the message "<strong>File Permissions All Set!</strong>".
